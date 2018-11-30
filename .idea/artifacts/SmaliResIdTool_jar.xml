@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SmaliResIdTool:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SmaliResIdTool_jar</output-path>
+    <root id="archive" name="SmaliResIdTool.jar">
+      <element id="module-output" name="SmaliResIdTool" />
+    </root>
+  </artifact>
+</component>
